@@ -36,7 +36,7 @@ Once both players have connected, it starts asking players for moves. The game k
 
 The game will detect when a player has won, or when the game ends in a tie.
 
-## Console Run
+## Example Run (terminal outputs)
 
 ### Server Side
 
